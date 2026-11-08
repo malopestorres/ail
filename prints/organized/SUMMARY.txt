@@ -1,0 +1,90 @@
+IMPRESSÃO SCREEN — Academia Itapetinguense de Letras
+====================================================
+
+Arquivos capturados em navegação real (localhost:8765).
+Ordem sugerida para apresentação ao cliente.
+
+=================================================================
+1  INÍCIO
+   Arquivo: inicio.png
+   Página: index.html
+   · Visita geral ao site, agenda, apresentação.
+
+2  ACADEMIA
+   Arquivo: a-academia.png
+   Página: academia.html
+   · Visão geral institucional, cards e atalhos.
+
+3  ACADEMIA — MENU ABERTO
+   Arquivo: a-academia-menu-aberto.png
+   Página: academia.html com dropdown aberto
+   · O menu "A Academia" expandido mostra: Sobre, Diretoria,
+     Presidentes, Estatuto, Audiências públicas.
+   · ISSO GERA UM PDF COM A ABA DO MENU INSTITUCIONAL ABERTO.
+
+4  ACADEMICOS
+   Arquivo: academicos.png
+   Página: academicos.html
+   · Abas: Atuais, Anteriores (in memoriam), Patronos.
+   · 26 silhuetas de acadêmicos.
+
+5  ACADEMICOS — MENU ABERTO
+   Arquivo: academicos-menu-aberto.png
+   Página: academicos.html com aba selecionada
+   · ISSO GERA UM PDF COM A ABA DE ACADEMICOS ABERTA.
+
+6  PRODUÇÕES LITERÁRIAS
+   Arquivo: producoes-literarias.png
+   Página: producoes.html
+   · Revista, poesias, contos, crônicas.
+
+7  PRODUÇÕES LITERÁRIAS — MENU ABERTO
+   Arquivo: producoes-literarias-menu-aberto.png
+   Página: producoes.html com lista expandida
+   · ISSO GERA UM PDF COM O MENU DE PRODUÇÕES ABERTO.
+
+8  SEDE
+   Arquivo: sede.png
+   Página: sede.html
+   · Galeria de fotos da sede, biblioteca, auditório, visitação.
+
+9  CONCURSOS
+   Arquivo: concursos.png
+   Página: concursos.html
+   · Editais e Vencedores.
+
+10. CONCURSOS — MENU ABERTO
+    Arquivo: concursos-menu-aberto.png
+    Página: concursos.html com menu/dropdown aberto
+    · ISSO GERA UM PDF COM O MENU DE CONCURSOS ABERTO.
+
+11. CONTATO
+    Arquivo: contato.png
+    Página: contato.html
+    · E-mail, Instagram, YouTube, formulário, mapa.
+
+=================================================================
+ARQUIVOS EXTRAS (não na sequência principal)
+---------------------------------------------
+· estatuto.png → página estatuto.html
+· presidentes.png → página presidentes.html
+· diretoria.png → página diretoria.html
+
+ estes prints foram capturados mas não entram na sequência solicitada.
+-----------------------------------------------------------------
+INSTRUÇÃO PARA GERAR O PDF
+-------------------------
+
+1. Use os 11 arquivos png acima na ordem listada.
+2. Cada print já mostra a página completa do site.
+3. Os prints rotulados "- MENU ABERTO" mostram o menu/aba expandido.
+4. Para gerar o PDF:
+   - No Mac: abra o Preview, selecione todas as imagens e use
+     "Exportar como PDF".
+   - Ou use ferramentas como PDFtk, Acrobat ou páginas do Word.
+5. O PDF resultante terá 11 páginas ilustrando todo o site,
+   com destaque para os momentos em que os menus estão abertos,
+   demonstrando a navegação interativa do protótipo.
+
+O PDF final entregue ao cliente será um documento visual que
+simula o uso do site, sem precisar que ele abra o navegador.
